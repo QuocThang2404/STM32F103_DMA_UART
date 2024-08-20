@@ -1,0 +1,4 @@
+../Peripherals/Src/uart.c:11:6:uart_UART1_GPIO_config	1
+../Peripherals/Src/uart.c:33:6:uart_UART1_config	1
+../Peripherals/Src/uart.c:63:6:uart_UART1_transmit	6
+../Peripherals/Src/uart.c:91:6:uart_UART1_receive	4
